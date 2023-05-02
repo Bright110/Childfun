@@ -1,4 +1,4 @@
-## 比较简陋的冰墩墩画像
+## 冰墩墩画像代码
 ### 您好用户，很高兴见到您!
 ### [python下载]("python.org")<br>
 ### [outlook私聊]("outlook.com")
